@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Powered by Incredibox
+	Incredibox © So Far So Good
+	http://www.sofarsogood.fr
+-->
+<root>
+
+	<!-- BOUTONS -->
+	<home>
+		<baseline>Express your musicality!</baseline>
+		<copyrightTxt>Music / Design graphic / Code</copyrightTxt>
+		<copyright>Incredibox © So Far So Good</copyright>
+	</home>
+
+	<!-- BOUTONS -->
+	<bouton>
+		<bonusT1><![CDATA[Loading<br/>progress...]]></bonusT1>
+		<bonusT2><![CDATA[Find the right<br />combo to unlock!]]></bonusT2>
+		<bonusT3><![CDATA[Launch the bonus<br />“NOM”]]></bonusT3>
+	</bouton>
+	
+	<!-- TEXTE FENETRE INFO -->
+	<infos>
+		<info1><![CDATA[Drag and drop an icon on the guy to start recording.]]></info1>
+		<info2><![CDATA[Sorry but your mix is too short to be saved. You have to record a minimum of 10 loops.]]></info2>
+		<info5><![CDATA[The mix is going to start :)<br>Pump up the volume!]]></info5>
+	</infos>
+
+</root>
