@@ -14,7 +14,7 @@
 		<version>1</version>
 		<annee>2009</annee>
 		<duree>5.333</duree>
-		<frame>128</frame>
+		<frame>256</frame>
 		<bonusloopA>true</bonusloopA>
 		<volencode>0.8</volencode>
 	</appInfo>
