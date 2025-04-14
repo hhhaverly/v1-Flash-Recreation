@@ -13,8 +13,8 @@
 		<name>Alpha</name>
 		<version>1</version>
 		<annee>2009</annee>
-		<duree>7.99</duree>
-		<frame>384</frame>
+		<duree>5333</duree>
+		<frame>128</frame>
 		<bonusloopA>true</bonusloopA>
 		<volencode>0.8</volencode>
 	</appInfo>
