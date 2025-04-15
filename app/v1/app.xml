@@ -93,8 +93,8 @@
 
 
 		<son picto="picto15" posPicto="40,80">
-			<swf>costume-v1/16_aoun.swf</swf>
-			<mp3>sound-v1/16_aoun_a.mp3</mp3>
+			<swf>costume-v1/16_anoun.swf</swf>
+			<mp3>sound-v1/16_anoun_a.mp3</mp3>
 		</son>
 		<son picto="picto16" posPicto="57,37">
 			<swf>costume-v1/17_hum.swf</swf>
