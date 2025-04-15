@@ -26,67 +26,67 @@
 
 	<musique>
 
-		<son picto="picto0" posPicto="49,43">
+		<son picto="picto0" posPicto="40,80">
 			<swf>costume-v1/1_lead.swf</swf>
 			<mp3>sound-v1/1_lead_a.mp3</mp3>
 		</son>
-		<son picto="picto1" posPicto="43,85">
+		<son picto="picto1" posPicto="40,80">
 			<swf>costume-v1/2_deux.swf</swf>
 			<mp3>sound-v1/2_deux_a.mp3</mp3>
 		</son>
-		<son picto="picto2" posPicto="48,58">
+		<son picto="picto2" posPicto="40,80">
 			<swf>costume-v1/3_kosh.swf</swf>
 			<mp3>sound-v1/3_kosh_a.mp3</mp3>
 		</son>
-		<son picto="picto3" posPicto="81,68">
+		<son picto="picto3" posPicto="40,80">
 			<swf>costume-v1/4_shpok.swf</swf>
 			<mp3>sound-v1/4_shpok_a.mp3</mp3>
 		</son>
-		<son picto="picto4" posPicto="50,68">
+		<son picto="picto4" posPicto="40,80">
 			<swf>costume-v1/5_tom.swf</swf>
 			<mp3>sound-v1/5_tom_a.mp3</mp3>
 		</son>
 
 
-		<son picto="picto5" posPicto="50,68">
+		<son picto="picto5" posPicto="40,80">
 			<swf>costume-v1/6_nouana.swf</swf>
 			<mp3>sound-v1/6_nouana_a.mp3</mp3>
 		</son>
-		<son picto="picto6" posPicto="55,64">
+		<son picto="picto6" posPicto="40,80">
 			<swf>costume-v1/7_scratch.swf</swf>
 			<mp3>sound-v1/7_scratch_a.mp3</mp3>
 		</son>
-		<son picto="picto7" posPicto="52,68">
+		<son picto="picto7" posPicto="40,80">
 			<swf>costume-v1/8_trill.swf</swf>
 			<mp3>sound-v1/8_trill_a.mp3</mp3>
 		</son>
-		<son picto="picto8" posPicto="50,68">
+		<son picto="picto8" posPicto="40,80">
 			<swf>costume-v1/9_bass.swf</swf>
 			<mp3>sound-v1/9_bass_a.mp3</mp3>
 		</son>
-		<son picto="picto9" posPicto="50,68">
+		<son picto="picto9" posPicto="40,80">
 			<swf>costume-v1/10_uh.swf</swf>
 			<mp3>sound-v1/10_uh_a.mp3</mp3>
 		</son>
 
 
-		<son picto="picto10" posPicto="58,74">
+		<son picto="picto10" posPicto="40,80">
 			<swf>costume-v1/11_nugu.swf</swf>
 			<mp3>sound-v1/11_nugu_a.mp3</mp3>
 		</son>
-		<son picto="picto11" posPicto="41,80">
+		<son picto="picto11" posPicto="40,80">
 			<swf>costume-v1/12_guit.swf</swf>
 			<mp3>sound-v1/12_guit_a.mp3</mp3>
 		</son>
-		<son picto="picto12" posPicto="55,56">
+		<son picto="picto12" posPicto="40,80">
 			<swf>costume-v1/13_tromp.swf</swf>
 			<mp3>sound-v1/13_tromp_a.mp3</mp3>
 		</son>
-		<son picto="picto13" posPicto="39,81">
+		<son picto="picto13" posPicto="40,80">
 			<swf>costume-v1/14_pouin.swf</swf>
 			<mp3>sound-v1/14_pouin_a.mp3</mp3>
 		</son>
-		<son picto="picto14" posPicto="54,55">
+		<son picto="picto14" posPicto="40,80">
 			<swf>costume-v1/15_tung.swf</swf>
 			<mp3>sound-v1/15_tung_a.mp3</mp3>
 		</son>
@@ -96,19 +96,19 @@
 			<swf>costume-v1/16_anoun.swf</swf>
 			<mp3>sound-v1/16_anoun_a.mp3</mp3>
 		</son>
-		<son picto="picto16" posPicto="57,37">
+		<son picto="picto16" posPicto="40,80">
 			<swf>costume-v1/17_hum.swf</swf>
 			<mp3>sound-v1/17_hum_a.mp3</mp3>
 		</son>
-		<son picto="picto17" posPicto="50,68">
+		<son picto="picto17" posPicto="40,80">
 			<swf>costume-v1/18_get.swf</swf>
 			<mp3>sound-v1/18_get_a.mp3</mp3>
 		</son>
-		<son picto="picto18" posPicto="47,55">
+		<son picto="picto18" posPicto="40,80">
 			<swf>costume-v1/19_tellme.swf</swf>
 			<mp3>sound-v1/19_tellme_a.mp3</mp3>
 		</son>
-		<son picto="picto19" posPicto="50,68">
+		<son picto="picto19" posPicto="40,80">
 			<swf>costume-v1/20_make.swf</swf>
 			<mp3>sound-v1/20_make_a.mp3</mp3>
 		</son>
