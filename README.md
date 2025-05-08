@@ -15,3 +15,5 @@ If you want, you can download this project and modify it to your liking so that 
 Little miss (Chrismas Variant) is on the way.
 
 The fla's will be uploaded in a few hours...
+
+I just forked this mod for fun. :) From hhhaverly.
